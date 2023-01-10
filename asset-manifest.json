@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Frontend-Mentor/static/css/main.4b0c134e.css",
+    "main.js": "/Frontend-Mentor/static/js/main.d1ffd741.js",
+    "static/js/787.6cd30d13.chunk.js": "/Frontend-Mentor/static/js/787.6cd30d13.chunk.js",
+    "static/media/image-product-desktop.jpg": "/Frontend-Mentor/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/image-product-mobile.jpg": "/Frontend-Mentor/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "index.html": "/Frontend-Mentor/index.html",
+    "static/media/icon-cart.svg": "/Frontend-Mentor/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.4b0c134e.css.map": "/Frontend-Mentor/static/css/main.4b0c134e.css.map",
+    "main.d1ffd741.js.map": "/Frontend-Mentor/static/js/main.d1ffd741.js.map",
+    "787.6cd30d13.chunk.js.map": "/Frontend-Mentor/static/js/787.6cd30d13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b0c134e.css",
+    "static/js/main.d1ffd741.js"
+  ]
+}
