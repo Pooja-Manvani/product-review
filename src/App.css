@@ -1,0 +1,32 @@
+/* All styles here */
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  overflow: hidden;
+}
+.App {
+  height: 100%;
+  overflow: hidden;
+  padding: 7%;
+  padding-left: 20%;
+  padding-right: 20%;
+  background-color: rgb(245, 234, 236);
+}
+
+.info-fonts{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+@media (min-width: 1200px) {
+  .info-fonts{
+    font-size: 42px;
+  }
+}
+.price-font{
+  font-size: 12px;
+  text-decoration: line-through;
+}
+
